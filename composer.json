@@ -11,6 +11,7 @@
     ],
     "homepage": "https://github.com/simplesquid/nova-advanced-number-field",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Matthew Poulter",
